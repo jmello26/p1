@@ -1,4 +1,7 @@
-# Project 1 - Environment Setup (and a little something about myself)  
+# Project 1 - Environment Setup 
+(and a little something about myself)  
+
+---
 
 ## Live URL
 <http://p1-jmello26.gopagoda.com/>
