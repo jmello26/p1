@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
+	<meta charset="utf-8"/>
 	<title>Jim Mello - Project 1</title>
 	<style>
 		.leftdiv {
