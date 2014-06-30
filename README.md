@@ -1,12 +1,11 @@
-# Project 1 - Environment Setup (And a little something about myself)  
-
----
+# Project 1 - Environment Setup 
+#(And a little something about myself)  
 
 ## Live URL
 <http://p1-jmello26.gopagoda.com/>
 
 ## Description
-Create a single web page that answers the following questions. The questions allow the teaching team to get to know you.
+Create a single web page that answers the following questions.
 
 Questions:  
 * In 2+ sentences describe who you are and what you do.
