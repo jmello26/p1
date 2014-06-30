@@ -7,11 +7,7 @@
 		.leftdiv {
 			float:left;
 		}
-		
-		.centerdiv {
-			align:center;
-		}
-		
+				
 		.rightdiv {
 			float:right;
 			text-align:left;
