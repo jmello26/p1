@@ -1,5 +1,4 @@
-# Project 1 - Environment Setup 
-(and a little something about myself)  
+# Project 1 - Environment Setup (And a little something about myself)  
 
 ---
 
