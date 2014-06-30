@@ -1,20 +1,67 @@
 <!DOCTYPE html>
 <html>
+	<head>
+	<title>Jim Mello - Project 1</title>
+	<style>
+		.leftdiv {
+			float:left;
+		}
+		
+		.centerdiv {
+			align:center;
+		}
+		
+		.rightdiv {
+			float:right;
+			text-align:left;
+		}
+		
+		h1 {
+			text-align:center;
+		}
+		
+		span {
+			font-family:Calibri;
+			font-size:16pt;
+			color:blue;
+		}
+	</style>
+	</head>
+
 	<body>
-		<h1>Project 1</h1>
-		<div>
+		<h1>Jim Mello - Project 1</h1>
+		<div class="rightdiv">
 			<img src="/images/Jim.png" />
 		</div>
-		<div>
-			<ul>
-				<li>In 2+ sentences describe who you are and what you do.</li>
-				<li>Why are you taking this course?</li>
-				<li>What previous experience do you have with HTML/CSS?</li>
-				<li>What previous experience do you have with programming?</li>
-				<li>Have you worked with PHP before? If so, to what extent?</li>
-				<li>Are you working on a Mac, PC, or some other platform?</li>
-				<li>Anything else we should know?</li>
-			</ul>
+		<div class="leftdiv">
+			<div>
+				<h2>In 2+ sentences describe who you are and what you do.</h2>
+				<span></span>
+			</div>
+			<div>
+				<h2>Why are you taking this course?</h2>
+				<span>I am taking Dynamic Web Applications primarily to learn PHP.</span>
+			</div>
+			<div>
+				<h2>What previous experience do you have with HTML/CSS?</h2>
+				<span>I have been working with HTML & CSS for about 8 years.</span>
+			</div>
+			<div>
+				<h2>What previous experience do you have with programming?</h2>
+				<span>I have been a software engineer for over 15 years, working on C++ and Java-based enterprise applications.</span>
+			</div>
+			<div>
+				<h2>Have you worked with PHP before? If so, to what extent?</h2>
+				<span>I have never worked with PHP before.</span>
+			</div>
+			<div>
+				<h2>Are you working on a Mac, PC, or some other platform?</h2>
+				<span> I am working on two PCs, both running Windows 7.</span>
+			</div>
+			<div>
+				<h2>Anything else we should know?</h2>
+				<span></span>
+			</div>
 		</div>
 	</body>
 </html
