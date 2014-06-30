@@ -3,6 +3,9 @@
 	<body>
 		<h1>Project 1</h1>
 		<div>
+			<img src="/images/Jim.png" />
+		</div>
+		<div>
 			<ul>
 				<li>In 2+ sentences describe who you are and what you do.</li>
 				<li>Why are you taking this course?</li>
