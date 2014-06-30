@@ -31,7 +31,7 @@
 	<body>
 		<h1>Jim Mello - Project 1</h1>
 		<div class="rightdiv">
-			<img src="/images/Jim.png" />
+			<img alt="Jim in Switzerland" src="/images/Jim.png" />
 		</div>
 		<div class="leftdiv">
 			<div>
@@ -64,4 +64,4 @@
 			</div>
 		</div>
 	</body>
-</html
+</html>
